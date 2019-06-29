@@ -1,0 +1,6 @@
+<resources>
+    <!--<string name="app_name">StatisticsLibrary</string>-->
+    <string name="dialog_check_gps_msg">没有开启定位</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_go">前往开启</string>
+</resources>

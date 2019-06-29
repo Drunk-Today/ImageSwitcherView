@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<string name="app_name">StatisticsLibrary</string>-->
+    <string name="dialog_check_gps_msg">Location services is off</string>
+    <string name="dialog_cancel">CANCEL</string>
+    <string name="dialog_go">GO TO TURN ON LOCATION</string>
+</resources>
