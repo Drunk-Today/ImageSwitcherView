@@ -1,5 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'maven'
+group='com.github.10159535282@qq.com'  //注意com.github.后面的为github账号
 
 android {
     compileSdkVersion 28
