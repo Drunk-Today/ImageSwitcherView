@@ -3,6 +3,21 @@
 目前只支持match_parent属性
 使用示例：
 
+导入Studio，添加到根构建
+
+    allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+    
+添加依赖
+
+    dependencies {
+	        implementation 'com.github.Drunk-Today:ImageSwitcherView:0.0.2'
+	}
+
 布局中
 
     <?xml version="1.0" encoding="utf-8"?>
