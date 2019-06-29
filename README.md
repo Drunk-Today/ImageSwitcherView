@@ -21,6 +21,7 @@
     </android.support.constraint.ConstraintLayout>
 
 代码中
+
     int[] images = new int[]{R.mipmap.test1, R.mipmap.test2, R.mipmap.test3};
     int curPosition = 0;
     mImageSwitcherView = findViewById(R.id.image_switcher_view);
